@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerApp", "BeerApp\BeerApp.csproj", "{D64796C2-A5E0-4021-A63C-2502DAE75A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerApp.DAO", "BeerApp.DAO\BeerApp.DAO.csproj", "{64C07B7F-26A8-4D53-98A2-3E492E3FA7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerApp.STR", "BeerApp.STR\BeerApp.STR.csproj", "{76E9E776-9F0C-4DB4-8E9D-6B8766CB7730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64796C2-A5E0-4021-A63C-2502DAE75A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64796C2-A5E0-4021-A63C-2502DAE75A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64796C2-A5E0-4021-A63C-2502DAE75A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64796C2-A5E0-4021-A63C-2502DAE75A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C07B7F-26A8-4D53-98A2-3E492E3FA7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C07B7F-26A8-4D53-98A2-3E492E3FA7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C07B7F-26A8-4D53-98A2-3E492E3FA7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C07B7F-26A8-4D53-98A2-3E492E3FA7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E9E776-9F0C-4DB4-8E9D-6B8766CB7730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E9E776-9F0C-4DB4-8E9D-6B8766CB7730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E9E776-9F0C-4DB4-8E9D-6B8766CB7730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E9E776-9F0C-4DB4-8E9D-6B8766CB7730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A745BC-4500-4973-87AF-4F50318AFE72}
+	EndGlobalSection
+EndGlobal
