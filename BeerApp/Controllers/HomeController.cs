@@ -13,6 +13,8 @@ namespace BeerApp.Controllers
             ViewBag.Title = "Home Page";
 
             return View();
+
+				//Hola
         }
     }
 }
